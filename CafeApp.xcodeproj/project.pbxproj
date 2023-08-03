@@ -14,6 +14,7 @@
 		293C74102A7C38070028B2BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 293C740F2A7C38070028B2BB /* Assets.xcassets */; };
 		293C74132A7C38070028B2BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 293C74112A7C38070028B2BB /* LaunchScreen.storyboard */; };
 		293C74222A7C3C8E0028B2BB /* MenuPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 293C74212A7C3C8E0028B2BB /* MenuPage.swift */; };
+		293C74242A7C4A1E0028B2BB /* Coffee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 293C74232A7C4A1E0028B2BB /* Coffee.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		293C74122A7C38070028B2BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		293C74142A7C38070028B2BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		293C74212A7C3C8E0028B2BB /* MenuPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuPage.swift; sourceTree = "<group>"; };
+		293C74232A7C4A1E0028B2BB /* Coffee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coffee.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		293C741C2A7C383D0028B2BB /* entity */ = {
 			isa = PBXGroup;
 			children = (
+				293C74232A7C4A1E0028B2BB /* Coffee.swift */,
 			);
 			path = entity;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				293C74072A7C38050028B2BB /* AppDelegate.swift in Sources */,
 				293C74092A7C38050028B2BB /* SceneDelegate.swift in Sources */,
 				293C74222A7C3C8E0028B2BB /* MenuPage.swift in Sources */,
+				293C74242A7C4A1E0028B2BB /* Coffee.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
