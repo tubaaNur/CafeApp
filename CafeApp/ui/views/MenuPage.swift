@@ -14,7 +14,7 @@ class MenuPage:UIViewController,UITableViewDelegate,UITableViewDataSource {
     var coffee = [String]()
     override func viewDidLoad() {
         super.viewDidLoad()
-        coffee = ["Latte", "Americano", "Flat White", "Türk Kahvesi", "Frappuccino", "White Chocolate Latte", "Filter Coffee", "Mocha", "Maccihato"]
+        coffee = ["Latte", "Americano", "Flat White", "Türk Kahvesi", "Frappuccino", "White Chocolate Latteeee", "Filter Coffee", "Mocha", "Maccihato"]
         
         tableView.delegate = self
         tableView.dataSource = self
